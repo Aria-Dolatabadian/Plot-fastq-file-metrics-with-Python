@@ -1,3 +1,4 @@
+#note that the example fastq file has low quality 
 import os
 import math
 import numpy as np
